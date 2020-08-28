@@ -71,7 +71,7 @@
               :key="newsIndex"
               v-show="isShowNews(newsIndex)"
               class="ibox"
-              :href="theNews.link"
+              :href="theNews.linkPc"
               target="_blank"
             >
               <div class="imgbox size-new">

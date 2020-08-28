@@ -26,7 +26,8 @@ export default {
         desc: '网络空间的竞争，归根到底是人才的竞争',
         date: '2019-11-28',
         picUrl: require('@/assets/imgs/p2-480x320.jpg'),
-        link: 'http://www.cinsa.org.cn/2019/1128/c10280a353908/page.htm',
+        link: 'https://mp.weixin.qq.com/s/l3w_GAONF9_E5c3ah-TGcA',
+        linkPc: 'http://www.cinsa.org.cn/2019/1128/c10280a353908/page.htm',
       },
       {
         title:
@@ -34,7 +35,8 @@ export default {
         desc: '协会20周年庆典活动回顾',
         date: '2019-07-16',
         picUrl: require('@/assets/imgs/p4-480x320.jpg'),
-        link: 'http://www.cinsa.org.cn/2019/0716/c10280a328647/page.htm',
+        link: 'https://mp.weixin.qq.com/s/6Lk6T0saMBoFENGpPpPagQ',
+        linkPc: 'http://www.cinsa.org.cn/2019/0716/c10280a328647/page.htm',
       },
       {
         title: '粤网安协会在网络安全周主办等保2.0贯彻论坛',
@@ -42,7 +44,8 @@ export default {
           '【聚焦等保2.0】协会在第六届广东省网络安全宣传周网络安全博览会主办等保2.0贯彻实施论坛',
         date: '2019-09-19',
         picUrl: require('@/assets/imgs/p3-480x320.jpg'),
-        link: 'http://www.cinsa.org.cn/2019/0919/c10280a334804/page.htm',
+        link: 'https://mp.weixin.qq.com/s/FobbeYJ8lwyop4i9jbhicA',
+        linkPc: 'http://www.cinsa.org.cn/2019/0919/c10280a334804/page.htm',
       },
       {
         title: '广东省网络安全应急响应中心教育分中心成立',
@@ -50,7 +53,8 @@ export default {
         date: '2020-08-24',
         // 480 x 320
         picUrl: require('@/assets/imgs/p1-480x320.jpg'),
-        link: 'http://www.cinsa.org.cn/2020/0824/c10280a395224/page.htm',
+        link: 'https://mp.weixin.qq.com/s/IY0LigVUxRYMsN3eLfjsJQ',
+        linkPc: 'http://www.cinsa.org.cn/2020/0824/c10280a395224/page.htm',
       },
     ],
   },
