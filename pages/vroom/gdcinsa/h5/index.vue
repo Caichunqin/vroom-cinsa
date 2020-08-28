@@ -5,7 +5,7 @@
         <h1>{{ header.companyName }}</h1>
         <!-- <nuxt-link to="./h5/intro">查看企业简介 &gt;</nuxt-link> -->
         <nuxt-link :to="{ name: 'vroom-gdcinsa-h5-intro' }"
-          >查看企业简介 &gt;</nuxt-link
+          >查看简介 &gt;</nuxt-link
         >
       </div>
       <div class="logo">
@@ -14,7 +14,7 @@
     </div>
 
     <div class="video-container">
-      <div class="company">{{ header.companyName }}公司网络安全展示视频</div>
+      <div class="company">{{ header.companyName }}展示视频</div>
       <video
         id="video-origin"
         class="video-js vjs-default-skin"
