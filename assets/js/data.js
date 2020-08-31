@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export default {
   header: {
     companyName: '广东省计算机信息网络安全协会',
@@ -22,21 +23,21 @@ export default {
     'title-en': 'NEWS',
     list: [
       {
+        title: '广东省网络安全应急响应中心教育分中心成立',
+        desc: '成立大会精彩回顾',
+        date: '2020-07-24',
+        // 480 x 320
+        picUrl: require('@/assets/imgs/p1-480x320.jpg'),
+        link: 'https://mp.weixin.qq.com/s/IY0LigVUxRYMsN3eLfjsJQ',
+        linkPc: 'http://www.cinsa.org.cn/2020/0824/c10280a395224/page.htm',
+      },
+      {
         title: '致敬时代 | 第三届“红帽杯”网络安全攻防大赛总决赛圆满落幕',
         desc: '网络空间的竞争，归根到底是人才的竞争',
         date: '2019-11-28',
         picUrl: require('@/assets/imgs/p2-480x320.jpg'),
         link: 'https://mp.weixin.qq.com/s/l3w_GAONF9_E5c3ah-TGcA',
         linkPc: 'http://www.cinsa.org.cn/2019/1128/c10280a353908/page.htm',
-      },
-      {
-        title:
-          '"无限网络正气，廿载家国情怀"协会二十周年庆典活动暨粤港澳网络空间安全高峰论坛在广州成功举办',
-        desc: '协会20周年庆典活动回顾',
-        date: '2019-07-16',
-        picUrl: require('@/assets/imgs/p4-480x320.jpg'),
-        link: 'https://mp.weixin.qq.com/s/6Lk6T0saMBoFENGpPpPagQ',
-        linkPc: 'http://www.cinsa.org.cn/2019/0716/c10280a328647/page.htm',
       },
       {
         title: '粤网安协会在网络安全周主办等保2.0贯彻论坛',
@@ -48,13 +49,22 @@ export default {
         linkPc: 'http://www.cinsa.org.cn/2019/0919/c10280a334804/page.htm',
       },
       {
-        title: '广东省网络安全应急响应中心教育分中心成立',
-        desc: '成立大会精彩回顾',
-        date: '2020-08-24',
+        title:
+          '"无限网络正气，廿载家国情怀"协会二十周年庆典活动暨粤港澳网络空间安全高峰论坛在广州成功举办',
+        desc: '协会20周年庆典活动回顾',
+        date: '2019-07-16',
+        picUrl: require('@/assets/imgs/p4-480x320.jpg'),
+        link: 'https://mp.weixin.qq.com/s/6Lk6T0saMBoFENGpPpPagQ',
+        linkPc: 'http://www.cinsa.org.cn/2019/0716/c10280a328647/page.htm',
+      },
+      {
+        title: '广东启动网络安全应急响应平台',
+        desc: '广东省网络安全应急响应平台和7×24小时网络安全应急响应工作机制',
+        date: '2016-12-26',
         // 480 x 320
-        picUrl: require('@/assets/imgs/p1-480x320.jpg'),
-        link: 'https://mp.weixin.qq.com/s/IY0LigVUxRYMsN3eLfjsJQ',
-        linkPc: 'http://www.cinsa.org.cn/2020/0824/c10280a395224/page.htm',
+        picUrl: require('@/assets/imgs/p5-480x320.jpg'),
+        link: 'https://www.mps.gov.cn/n2255079/n4242954/n4841045/n4841055/c5582537/content.html',
+        linkPc: 'https://www.mps.gov.cn/n2255079/n4242954/n4841045/n4841055/c5582537/content.html',
       },
     ],
   },
@@ -123,13 +133,13 @@ export default {
         },
       },
       {
-        title: '第二届红帽杯网络安全攻防大赛',
-        time: '00:02:36',
+        title: '第一届&第二届红帽杯网络安全攻防大赛宣传视频',
+        time: '00:07:05',
         // 660 x 380
         picUrl: require('@/assets/imgs/p1-660x380.jpg'),
         video: {
           url:
-            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/1429a4cddb9077b820e6ee3e4708de7c/0a67656557ebaf62b86dafb9eacde5d0.mp4',
+            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/72758ed68e9a45ab89dcfdc2dcf6b0ab/2de3ed173c5b8387aa1b9ca3d8c0a222.mp4',
           type: 'video/mp4',
         },
       },
